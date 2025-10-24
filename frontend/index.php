@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="//cdn.ckeditor.com/4.22.1/full/ckeditor.js"></script>
+    <title>PHP custom-CMS project</title>
+</head>
+<?php include 'header.php'; ?>
+<?php include 'body.php'; ?>
+<?php include 'footer.php'; ?>
+</html>
